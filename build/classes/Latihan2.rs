@@ -1,0 +1,2 @@
+universitas.mahasiswa
+universitas.Latihan2
